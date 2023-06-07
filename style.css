@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+.stillery{
+  max-width: 500px;
+  max-height: 400px;
+  border-radius: 15%;
+}
+.glass{
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 19%;
+}
+
+.FAQ{
+  border-radius: 19%;
+  max-height: 400px;
+}
+.moto{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.logo{
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 2%;
+}
